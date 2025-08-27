@@ -1,1 +1,1 @@
-(page)[https://github.com/Hamidspirit/3d/deployments/github-pages]
+[page](https://hamidspirit.github.io/3d/)
